@@ -79,7 +79,7 @@ body{
     align-items: center;
 }
 
-.home-btn1{
+#home-btn1{
     margin-left: -10px;
     margin-right: 20px;
     border-radius: 5px;
@@ -89,7 +89,7 @@ body{
     padding: 8px;
 }
 
-.home-btn2{
+#home-btn2{
     
     margin-right: 20px;
     border-radius: 5px;
@@ -99,7 +99,7 @@ body{
     padding: 8px;
 }
 
-.home-btn3{
+#home-btn3{
     
     border-radius: 5px;
     color:#9AABD8;
@@ -112,7 +112,7 @@ body{
     
 }
 
-.guest-btn1{
+#guest-btn1{
     
     margin-right: 20px;
     border-radius: 5px;
@@ -122,7 +122,7 @@ body{
     padding: 8px;
 }
 
-.guest-btn2{
+#guest-btn2{
     
     margin-right: 20px;
     border-radius: 5px;
@@ -132,7 +132,7 @@ body{
     padding: 8px;
 }
 
-.guest-btn3{
+#guest-btn3{
     margin-right: -10px;
     border-radius: 5px;
     color:#9AABD8;
